@@ -26,7 +26,7 @@ public class GetData {
                         fw.write(data);
                         fw.write("\n\n");
 
-                        System.out.println(i + "/ 716 is done");
+                        System.out.println(i + "/716 is done");
                 }
                 fw.close();
         }
